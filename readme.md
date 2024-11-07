@@ -27,3 +27,12 @@ Once setup is complete, you can run the tests as such:
 
 1. For parallel execution, run the test via `npx playwright test artwork-test-parallel.spec.ts`
 2. For normal/sequential (non-parallel) execution, run the test via `npx playwright test artwork-test-sequential.spec.ts`
+
+### Known Issues
+
+1. WebKit tests fail due to API requests not returning any response (unknown if this is a bug or issue with the test code itself)
+
+### Console Messages
+
+1. Submit Artwork tests will log the test data used in the console
+2. Warning Code 1: This message simply notifies the user that the artwork name created in the first test case "Submit Artwork test" was not found. This is most likely because the artwork name might be outdated or this is your first time running the test on this machine.
