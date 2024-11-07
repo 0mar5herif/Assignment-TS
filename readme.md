@@ -35,4 +35,4 @@ Once setup is complete, you can run the tests as such:
 ### Console Messages
 
 1. Submit Artwork tests will log the test data used in the console
-2. Warning Code 1: This message simply notifies the user that the artwork name created in the first test case "Submit Artwork test" was not found. This is most likely because the artwork name might be outdated or this is your first time running the test on this machine.
+2. **Warning Code 1**: This message simply notifies the user that the artwork name created in the first test case "Submit Artwork test" was not found. This is most likely because the artwork name might be outdated or this is your first time running the test on this machine.
