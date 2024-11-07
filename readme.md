@@ -7,7 +7,7 @@ Follow the documentation to run the test.
 
 ### Prerequisites
 
-- **Node.js**: Ensure that Node.js (latest version, currently `v22.11.0`) is installed on your machine. [Download Node.js here](https://nodejs.org/).
+- **Node.js**: Ensure that Node.js (version used `v22.11.0`) is installed on your machine. [Download Node.js here](https://nodejs.org/).
 
 ### Installation
 
